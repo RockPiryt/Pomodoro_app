@@ -23,13 +23,18 @@ How To Setup
 
 3. Create a Virtual Environment (for Windows) py -m venv (name your virtual enviroment :) venv
 
-py -m venv venv
+    py -m venv venv
 
 4. Activate Virtual Environment source: venv/Scripts/activate
 
 5. Install Requirements Package pip install -r requirements.txt
 
 6. Finally Run The Project: python main.py
+
+_____________________________________________________________________________________
+Preview:
+with open(preview.jpg) as image:
+    image.read()
 
 
 
