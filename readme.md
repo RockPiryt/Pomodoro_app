@@ -33,9 +33,9 @@ How To Setup
 
 _____________________________________________________________________________________
 Preview:
-with open(preview.jpg) as image:
-    image.read()
 
+
+![Preview](https://github.com/RockPiryt/Pomodoro_app/blob/main/preview.jpg?raw=true)
 
 
 
