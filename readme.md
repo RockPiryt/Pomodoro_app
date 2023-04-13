@@ -17,13 +17,19 @@ After each session WORK+BREAK checkmark is addin below pomodoro.
 _______________________________________________________________________________________________
 How To Setup
 
-Clone This Project git clone
-Enter Project Directory cd Pomodoro_app
-Create a Virtual Environment (for Windows) py -m venv (name your virtual enviroment :) venv
+1. Clone This Project git clone
+
+2. Enter Project Directory cd Pomodoro_app
+
+3. Create a Virtual Environment (for Windows) py -m venv (name your virtual enviroment :) venv
+
 py -m venv venv
-Activate Virtual Environment source: venv/Scripts/activate
-Install Requirements Package pip install -r requirements.txt
-Finally Run The Project: python main.py
+
+4. Activate Virtual Environment source: venv/Scripts/activate
+
+5. Install Requirements Package pip install -r requirements.txt
+
+6. Finally Run The Project: python main.py
 
 
 
